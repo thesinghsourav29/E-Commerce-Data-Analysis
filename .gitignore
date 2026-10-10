@@ -1,0 +1,18 @@
+
+# Large datasets — keep locally
+Data/*.xlsx
+Data/*.csv
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment and secrets
+.venv/
+venv/
+.env
+
+# Temporary editor and operating-system files
+.DS_Store
+Thumbs.db
